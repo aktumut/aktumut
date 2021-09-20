@@ -21,7 +21,7 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
  <a href="https://github.com/aktumut/Choosing_Neighborhood"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Choosing_Neighborhood" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/house%20(1).png" /> For my IBM Data Science capstone project
   
 
- <a href="https://github.com/aktumut/Run_For_Life"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/running.png" /> For my advanced machine learning project
+ <a href="https://github.com/aktumut/Run_For_Life"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/running%20(1).png" /> For my advanced machine learning project
   
   
 <!--
