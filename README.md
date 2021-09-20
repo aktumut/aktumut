@@ -1,4 +1,4 @@
-### Hi stranger 👋
+### Hi Stranger 👋
 
 Mechanical engineer with 6 years experience in design engineering, mathematical modeling, CAD programming for production, and project management. Want to use my old and new skills in IT as an engineer, analyst, or project manager.
 
