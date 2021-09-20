@@ -8,7 +8,7 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
 <a href=""><img align="left" alt="Intercoach" href="https://umutaktas.medium.com/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/portfolio.png" />
 <a href="aktasumut@gmail.com"><img align="left" alt="Umut Aktas Mail" href="aktasumut@gmail.com" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/mail.png" />
 <a href=""><img align="left" alt="Intercoach" href="https://umutaktas.medium.com/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/intercoach.png" />
- 
+------
  
 <p></>
 <p></>
