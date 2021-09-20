@@ -18,7 +18,7 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
 
  <a href="https://github.com/aktumut/Data_Analysis_Web_Scrapping"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Data_Analysis_Web_Scrapping" width="22px" src="https://toppng.com/uploads/preview/resolution-28342751-data-analysis-icon-11553436370dgxfieawfj.png" /> For my data analysis and web scrapping project
 
- <a href="https://github.com/aktumut/Data_Analysis_Web_Scrapping"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Data_Analysis_Web_Scrapping" width="22px" src="https://toppng.com/uploads/preview/resolution-28342751-data-analysis-icon-11553436370dgxfieawfj.png" /> For my data analysis and web scrapping project
+ <a href="https://github.com/aktumut/Data_Analysis_Web_Scrapping"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Data_Analysis_Web_Scrapping" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/SeekPng.com_analytics-icon-png_5178110.png" /> For my data analysis and web scrapping project
   
 
 <!--
