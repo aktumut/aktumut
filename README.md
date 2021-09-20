@@ -15,7 +15,7 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
  
 ![alt text](https://github.com/aktumut/Portfolio/blob/main/static/assets/background.PNG)
 
-  🔭 For my data analysis and web scrapping project [**data analysis**](https://github.com/aktumut/Data_Analysis_Web_Scrapping)
+  [**🔭**] (https://github.com/aktumut/Data_Analysis_Web_Scrapping) For my data analysis and web scrapping project
   
 
 <!--
