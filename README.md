@@ -19,12 +19,12 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
 
 
 
- <a href="https://github.com/aktumut/Data_Analysis_Web_Scrapping"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Data_Analysis_Web_Scrapping" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/magnifying-glass.png" /> For my data analysis and web scrapping project
+ <a href="https://github.com/aktumut/Data_Analysis_Web_Scrapping"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Data_Analysis_Web_Scrapping" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/magnifying-glass.png" /> For my data analysis and web scrapping project
 
- <a href="https://github.com/aktumut/Choosing_Neighborhood"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Choosing_Neighborhood" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/house%20(1).png" /> For my IBM Data Science capstone project
+ <a href="https://github.com/aktumut/Choosing_Neighborhood"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Choosing_Neighborhood" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/house%20(1).png" /> For my IBM Data Science capstone project
   
 
- <a href="https://github.com/aktumut/Run_For_Life"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/running%20(1).png" /> For my advanced machine learning project
+ <a href="https://github.com/aktumut/Run_For_Life"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/running%20(1).png" /> For my advanced machine learning project
   
   
 <!--
