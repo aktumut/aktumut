@@ -2,7 +2,7 @@
 
 Mechanical engineer with 6 years experience in design engineering, mathematical modeling, CAD programming for production, and project management. Want to use my old and new skills in IT as an engineer, analyst, or project manager.
 
-[<a align="left" alt="Umut Aktas Linkedin" href="https://www.linkedin.com/in/aktumut/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/linkedin.png" />]
+<img align="left" alt="Umut Aktas Linkedin" href="https://www.linkedin.com/in/aktumut/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/static/assets/linkedin.png" />
 
 
 ![alt text](https://github.com/aktumut/Portfolio/blob/main/static/assets/background.PNG)
