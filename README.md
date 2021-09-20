@@ -15,8 +15,8 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
  
 ![alt text](https://github.com/aktumut/Portfolio/blob/main/static/assets/background.PNG)
 
-  🔭 I’m currently working on time series models
-  📫 How to reach me:
+  🔭 For my data analysis and web scrapping project [**data analysis**](https://github.com/aktumut/Data_Analysis_Web_Scrapping)
+  
 
 <!--
 **aktumut/aktumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 📫 How to reach me:
 -->
