@@ -15,7 +15,7 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
 ### 
 ------
 
-![alt text](https://github.com/aktumut/Portfolio/blob/main/static/assets/background.PNG)
+![alt text](https://github.com/aktumut/Portfolio/blob/main/app/static/assets/background.PNG)
 
 
 
