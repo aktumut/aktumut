@@ -18,7 +18,8 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
 ![alt text](https://github.com/aktumut/Portfolio/blob/main/app/static/assets/background.PNG)
 
 
-
+ <a href="https://github.com/aktumut/Intercoach_"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Intercoach_" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/intercoach.png" /> For my Strive School capstone project
+ 
  <a href="https://github.com/aktumut/Data_Analysis_Web_Scrapping"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Data_Analysis_Web_Scrapping" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/magnifying-glass.png" /> For my data analysis and web scrapping project
 
  <a href="https://github.com/aktumut/Choosing_Neighborhood"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Choosing_Neighborhood" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/house%20(1).png" /> For my IBM Data Science capstone project
