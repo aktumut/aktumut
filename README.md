@@ -28,7 +28,7 @@ Mechanical engineer with 6 years experience in design engineering, mathematical 
  <a href="https://github.com/aktumut/Run_For_Life"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/running%20(1).png" /> For my advanced machine learning project
   
 
- <a href="https://github.com/aktumut/Discussion-Forum"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://raw.githubusercontent.com/aktumut/Portfolio/main/app/static/assets/discussion.png" /> For my Django Project / Discussion Forum 
+ <a href="https://github.com/aktumut/Discussion-Forum"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://raw.githubusercontent.com/aktumut/Portfolio/main/app/static/assets/discussion.png" /> For my Django project / Discussion Forum 
   
   
   
