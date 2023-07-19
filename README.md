@@ -14,7 +14,7 @@ Mechanical engineer with 7 years experience in design engineering, mathematical 
  
 ### 
 ------
-
+<!--
 ![alt text](https://github.com/aktumut/Portfolio/blob/main/app/static/assets/background.PNG)
 
 
@@ -30,7 +30,7 @@ Mechanical engineer with 7 years experience in design engineering, mathematical 
 
  <a href="https://github.com/aktumut/Discussion-Forum"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://raw.githubusercontent.com/aktumut/Portfolio/main/app/static/assets/discussion.png" /> For my Django project / Discussion Forum 
   
-  
+ --> 
   
 <!--
 **aktumut/aktumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
