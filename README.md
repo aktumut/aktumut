@@ -1,6 +1,6 @@
 ### Hi Stranger 👋
 
-Mechanical engineer with 7 years experience in design engineering, mathematical modeling, 3D design programming for production, and project management. Now working as a Flutter Developer and engineering consultant
+Flutter Developer | Consultant | Project Manager
 
 <a href="https://www.linkedin.com/in/aktumut/"><img align="left" alt="Umut Aktas Linkedin" href="https://www.linkedin.com/in/aktumut/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/linkedin.png" />
  
