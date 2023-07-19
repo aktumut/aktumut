@@ -1,6 +1,6 @@
 ### Hi Stranger 👋
 
-Flutter Developer | Consultant | Project Manager
+Flutter Developer | Consultant | Project Manager | Computer Science Msc Student
 
 <a href="https://www.linkedin.com/in/aktumut/"><img align="left" alt="Umut Aktas Linkedin" href="https://www.linkedin.com/in/aktumut/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/linkedin.png" />
  
