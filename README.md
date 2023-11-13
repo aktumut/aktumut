@@ -1,50 +1,34 @@
-### Hi Stranger 👋
+# Umut Aktas - Flutter Developer
 
-Flutter Developer | Consultant | Project Manager | Computer Science Msc Student
+Hello there! 👋 I'm Umut, a seasoned Flutter developer with extensive experience in building dynamic and efficient mobile applications. With a strong foundation in computer science and hands-on experience in modern technologies, I blend academic knowledge with practical skills to create impactful software solutions.
 
-<a href="https://www.linkedin.com/in/aktumut/"><img align="left" alt="Umut Aktas Linkedin" href="https://www.linkedin.com/in/aktumut/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/linkedin.png" />
- 
-<a href="https://umutaktas.medium.com/"><img align="left" alt="Umut Aktas Medium" href="https://umutaktas.medium.com/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/medium.png" />
- 
+## About Me
 
- 
-<a href="aktasumut@gmail.com"><img align="left" alt="Umut Aktas Mail" href="mailto:aktasumut@gmail.com" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/mail.png" />
-<!-- 
-<a href="https://umutaktas.herokuapp.com/"><img align="left" alt="Portfolio" href="https://umutaktas.herokuapp.com/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/portfolio.png" />
+- 🌟 **Specialization**: Proficient in Flutter development, REST APIs, Firebase, and Python. Currently expanding my skill set in Angular.
+- 📚 **Education**: Currently pursuing a Master's degree in Computer Science.
+- 🏢 **Professional Experience**: Over 3 years of experience in Flutter development, including a year in the Flowise project and various freelance roles.
+- 🌍 **Location**: Living in the Netherlands with a valid work permit.
+- 🛠️ **Technical Skills**: Expert in using the BLoC pattern with Flutter for scalable and maintainable code. Actively learning and working on Angular for web development.
 
-<a href="https://github.com/aktumut/Intercoach_"><img align="left" alt="Intercoach" href="https://umutaktas.medium.com/" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/intercoach.png" />
- 
-### 
-------
-<!--
-![alt text](https://github.com/aktumut/Portfolio/blob/main/app/static/assets/background.PNG)
+## My Work
+
+- 🔭 Working on multiple freelance projects, focusing on delivering high-quality mobile applications using Flutter and Angular.
+- 🌱 Continuously updating my skills in Flutter, and diving into Angular for web development.
+- 👯 Interested in collaborating on innovative Flutter and Angular projects that challenge and enhance my skills.
+- 🤔 Open to consulting and project management opportunities, leveraging my expertise in mobile and web development.
+
+## Connect with Me
+
+- LinkedIn: [Umut Aktas](https://www.linkedin.com/in/aktumut/)
+- Email: [aktasumut@gmail.com](mailto:aktasumut@gmail.com)
 
 
- <a href="https://github.com/aktumut/Intercoach_"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Intercoach_" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/intercoach.png" /> For my Strive School capstone project
- 
- <a href="https://github.com/aktumut/Data_Analysis_Web_Scrapping"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Data_Analysis_Web_Scrapping" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/magnifying-glass.png" /> For my data analysis and web scrapping project
 
- <a href="https://github.com/aktumut/Choosing_Neighborhood"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Choosing_Neighborhood" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/house%20(1).png" /> For my IBM Data Science capstone project
-  
 
- <a href="https://github.com/aktumut/Run_For_Life"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://github.com/aktumut/Portfolio/blob/main/app/static/assets/running%20(1).png" /> For my advanced machine learning project
-  
 
- <a href="https://github.com/aktumut/Discussion-Forum"><img align="left" alt="Intercoach" href="https://github.com/aktumut/Run_For_Life" width="22px" src="https://raw.githubusercontent.com/aktumut/Portfolio/main/app/static/assets/discussion.png" /> For my Django project / Discussion Forum 
-  
- --> 
-  
-<!--
-**aktumut/aktumut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 📫 How to reach me:
--->
+
+
+
+
