@@ -6,7 +6,7 @@ Hello there! 👋 I'm Umut, a seasoned Mobile Application developer with extensi
 
 - 🌟 **Specialization**: Proficient in Flutter and Swift development, REST APIs, Firebase, and Python.
 - 📚 **Education**: Currently pursuing a Master's degree in Computer Science.
-- 🏢 **Professional Experience**: Over 4 years of experience in Mobile Application development.
+- 🏢 **Professional Experience**: Over 5 years of experience in Mobile Application development.
 - 🌍 **Location**: Living in the Netherlands with a valid work permit.
 - 🛠️ **Technical Skills**: Expert in using the BLoC and Riverpod with Flutter for scalable and maintainable code. 
 
